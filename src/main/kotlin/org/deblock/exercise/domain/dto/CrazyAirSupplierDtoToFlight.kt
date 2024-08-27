@@ -9,7 +9,7 @@ fun CrazyAirSupplierDto.toFlight(supplier: String): Flight {
     return Flight(
         airline = this.airline,
         supplier = supplier,
-        fare = this.price.toBigDecimal().setScale(2, RoundingMode.HALF_UP),
+        fare = this.price,
         departureAirportCode = this.departureAirportCode,
         destinationAirportCode = this.destinationAirportCode,
         departureDate = stringToLocalDateTime(this.departureDate, "yyyy-MM-dd'T'HH:mm:ss.SSS"),

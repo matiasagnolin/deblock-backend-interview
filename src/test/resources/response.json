@@ -2,7 +2,7 @@
   {
     "airline": "VUELING",
     "supplier": "CRAZY_AIR",
-    "fare": 0.00,
+    "fare": 100.00,
     "departureAirportCode": "BKK",
     "destinationAirportCode": "EZE",
     "departureDate": "2024-08-23T19:00:00",
@@ -11,83 +11,11 @@
   {
     "airline": "RYANAIR",
     "supplier": "CRAZY_AIR",
-    "fare": 0.00,
+    "fare": 120.50,
     "departureAirportCode": "BKK",
     "destinationAirportCode": "MAD",
     "departureDate": "2024-08-24T20:00:00",
     "arrivalDate": "2024-08-31T22:00:00"
-  },
-  {
-    "airline": "EASYJET",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "LON",
-    "departureDate": "2024-08-25T21:00:00",
-    "arrivalDate": "2024-09-01T23:00:00"
-  },
-  {
-    "airline": "DELTA",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "NYC",
-    "departureDate": "2024-08-26T18:00:00",
-    "arrivalDate": "2024-09-02T20:00:00"
-  },
-  {
-    "airline": "AMERICAN",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "ORD",
-    "departureDate": "2024-08-27T17:00:00",
-    "arrivalDate": "2024-09-03T19:00:00"
-  },
-  {
-    "airline": "UNITED",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "LAX",
-    "departureDate": "2024-08-28T16:00:00",
-    "arrivalDate": "2024-09-04T18:00:00"
-  },
-  {
-    "airline": "AIR_FRANCE",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "CDG",
-    "departureDate": "2024-08-29T15:00:00",
-    "arrivalDate": "2024-09-05T17:00:00"
-  },
-  {
-    "airline": "QATAR",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "DOH",
-    "departureDate": "2024-08-30T14:00:00",
-    "arrivalDate": "2024-09-06T16:00:00"
-  },
-  {
-    "airline": "EMIRATES",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "DXB",
-    "departureDate": "2024-08-31T13:00:00",
-    "arrivalDate": "2024-09-07T15:00:00"
-  },
-  {
-    "airline": "SINGAPORE",
-    "supplier": "CRAZY_AIR",
-    "fare": 0.00,
-    "departureAirportCode": "BKK",
-    "destinationAirportCode": "SIN",
-    "departureDate": "2024-09-01T12:00:00",
-    "arrivalDate": "2024-09-08T14:00:00"
   },
   {
     "airline": "VUELING",
@@ -99,6 +27,15 @@
     "arrivalDate": "2024-08-30T23:00:00"
   },
   {
+    "airline": "EASYJET",
+    "supplier": "CRAZY_AIR",
+    "fare": 145.75,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "LON",
+    "departureDate": "2024-08-25T21:00:00",
+    "arrivalDate": "2024-09-01T23:00:00"
+  },
+  {
     "airline": "RYANAIR",
     "supplier": "TOUGH_JET",
     "fare": 151.85,
@@ -106,6 +43,24 @@
     "destinationAirportCode": "BCN",
     "departureDate": "2024-08-24T22:00:00",
     "arrivalDate": "2024-09-01T00:00:00"
+  },
+  {
+    "airline": "AIR_FRANCE",
+    "supplier": "CRAZY_AIR",
+    "fare": 155.90,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "CDG",
+    "departureDate": "2024-08-29T15:00:00",
+    "arrivalDate": "2024-09-05T17:00:00"
+  },
+  {
+    "airline": "AMERICAN",
+    "supplier": "CRAZY_AIR",
+    "fare": 170.25,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "ORD",
+    "departureDate": "2024-08-27T17:00:00",
+    "arrivalDate": "2024-09-03T19:00:00"
   },
   {
     "airline": "AIR_FRANCE",
@@ -126,6 +81,15 @@
     "arrivalDate": "2024-09-02T01:00:00"
   },
   {
+    "airline": "UNITED",
+    "supplier": "CRAZY_AIR",
+    "fare": 180.50,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "LAX",
+    "departureDate": "2024-08-28T16:00:00",
+    "arrivalDate": "2024-09-04T18:00:00"
+  },
+  {
     "airline": "AMERICAN",
     "supplier": "TOUGH_JET",
     "fare": 199.80,
@@ -135,6 +99,24 @@
     "arrivalDate": "2024-09-03T21:00:00"
   },
   {
+    "airline": "DELTA",
+    "supplier": "CRAZY_AIR",
+    "fare": 200.00,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "NYC",
+    "departureDate": "2024-08-26T18:00:00",
+    "arrivalDate": "2024-09-02T20:00:00"
+  },
+  {
+    "airline": "QATAR",
+    "supplier": "CRAZY_AIR",
+    "fare": 210.30,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "DOH",
+    "departureDate": "2024-08-30T14:00:00",
+    "arrivalDate": "2024-09-06T16:00:00"
+  },
+  {
     "airline": "UNITED",
     "supplier": "TOUGH_JET",
     "fare": 211.68,
@@ -142,6 +124,15 @@
     "destinationAirportCode": "BCN",
     "departureDate": "2024-08-28T18:00:00",
     "arrivalDate": "2024-09-04T20:00:00"
+  },
+  {
+    "airline": "EMIRATES",
+    "supplier": "CRAZY_AIR",
+    "fare": 230.00,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "DXB",
+    "departureDate": "2024-08-31T13:00:00",
+    "arrivalDate": "2024-09-07T15:00:00"
   },
   {
     "airline": "QATAR",
@@ -160,6 +151,15 @@
     "destinationAirportCode": "BCN",
     "departureDate": "2024-08-26T20:00:00",
     "arrivalDate": "2024-09-02T22:00:00"
+  },
+  {
+    "airline": "SINGAPORE",
+    "supplier": "CRAZY_AIR",
+    "fare": 250.75,
+    "departureAirportCode": "BKK",
+    "destinationAirportCode": "SIN",
+    "departureDate": "2024-09-01T12:00:00",
+    "arrivalDate": "2024-09-08T14:00:00"
   },
   {
     "airline": "EMIRATES",
